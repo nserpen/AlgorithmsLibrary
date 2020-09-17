@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsLibrary", "AlgorithmsLibrary\AlgorithmsLibrary.csproj", "{21C3AB96-3164-4B94-B3B2-DEEC37D816B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsLibraryTests", "AlgorithmsLibraryTests\AlgorithmsLibraryTests.csproj", "{6D981472-F533-420C-B7AA-0B3C6FB92C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C3AB96-3164-4B94-B3B2-DEEC37D816B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C3AB96-3164-4B94-B3B2-DEEC37D816B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C3AB96-3164-4B94-B3B2-DEEC37D816B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C3AB96-3164-4B94-B3B2-DEEC37D816B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D981472-F533-420C-B7AA-0B3C6FB92C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D981472-F533-420C-B7AA-0B3C6FB92C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D981472-F533-420C-B7AA-0B3C6FB92C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D981472-F533-420C-B7AA-0B3C6FB92C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+		$0.DotNetNamingPolicy = $2
+		$2.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $3
+		$3.inheritsSet = null
+		$3.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $4
+		$4.scope = text/x-csharp
+		$0.TextStylePolicy = $5
+		$5.FileWidth = 80
+		$5.TabsToSpaces = True
+		$5.scope = text/plain
+		$0.StandardHeader = $6
+		$6.Text = @***********************\n${AuthorName} (${Year})\n***********************\n
+	EndGlobalSection
+EndGlobal
